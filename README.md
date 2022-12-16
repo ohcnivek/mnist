@@ -1,2 +1,2 @@
 # minst
-learnin basic ml shiz
+85% accuracy, not too shabby
